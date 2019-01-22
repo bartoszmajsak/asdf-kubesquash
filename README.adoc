@@ -8,7 +8,7 @@ https://github.com/solo-io/kubesquash[Kubesquash] plugin for https://github.com/
 
 [source,bash]
 ----
-asdf plugin-add ksquash https://github.com/bartoszmajsak/asdf-kubesquash.git
+asdf plugin-add kubesquash https://github.com/bartoszmajsak/asdf-kubesquash.git
 ----
 
 == Use
