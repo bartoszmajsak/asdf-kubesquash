@@ -1,0 +1,16 @@
+= asdf-squash
+
+image::https://travis-ci.org/bartoszmajsak/asdf-kubesquash.svg?branch=master)[link="https://travis-ci.org/bartoszmajsak/asdf-kubesquash"]
+
+https://github.com/solo-io/kubesquash[Kubesquash] plugin for https://github.com/asdf-vm/asdf[asdf] version manager.
+
+== Install
+
+[source,bash]
+----
+asdf plugin-add ksquash https://github.com/bartoszmajsak/asdf-kubesquash.git
+----
+
+== Use
+
+Check out the https://github.com/asdf-vm/asdf/README.md[asdf README] for instructions on how to install and manage versions of variety of tools it supports.
