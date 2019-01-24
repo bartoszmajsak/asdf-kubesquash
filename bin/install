@@ -18,9 +18,8 @@ install() {
 
   local bin_path="${bin_install_path}/ksquash"
 
-  echo "Downloading Kubesquash v${version} from ${download_url} to ${bin_install_path}"  
+  echo "Downloading Kubesquash ${version} from ${download_url} to ${bin_install_path}"  
   install_executable $download_url $bin_path
-
 }
 
 install_executable() {
